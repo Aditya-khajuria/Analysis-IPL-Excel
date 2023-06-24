@@ -24,4 +24,4 @@ Excel contains the dashboard of the analysis of matches and players from 2008-20
 # PowerPoint Presentation
 PPT contain important visualization and analysis of these data sets 
 
-![](https://github.com/usama8199/Analysis-IPL-EDA-Excel/blob/master/ppt.jpg)https://github.com/usama8199/Analysis-IPL-EDA-Excel/blob/master/ppt.jpg)
+![](https://github.com/usama8199/Analysis-IPL-EDA-Excel/blob/master/ppt.jpg)
